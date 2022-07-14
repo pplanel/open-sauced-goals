@@ -1,0 +1,182 @@
+[
+  {
+    "full_name": "zesterer/chumsky",
+    "stargazers_count": 1994,
+    "open_issues_count": 36,
+    "forks_count": 66
+  },
+  {
+    "full_name": "zesterer/ariadne",
+    "stargazers_count": 941,
+    "open_issues_count": 28,
+    "forks_count": 23
+  },
+  {
+    "full_name": "socketsupply/swarm",
+    "stargazers_count": 19,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
+    "full_name": "tailscale/tailscale",
+    "stargazers_count": 8219,
+    "open_issues_count": 887,
+    "forks_count": 513
+  },
+  {
+    "full_name": "scrooloose/vim-slumlord",
+    "stargazers_count": 425,
+    "open_issues_count": 12,
+    "forks_count": 35
+  },
+  {
+    "full_name": "noarchwastaken/vpn_killer",
+    "stargazers_count": 16,
+    "open_issues_count": 0,
+    "forks_count": 4
+  },
+  {
+    "full_name": "grafana/k6",
+    "stargazers_count": 17129,
+    "open_issues_count": 343,
+    "forks_count": 885
+  },
+  {
+    "full_name": "pola-rs/polars",
+    "stargazers_count": 6952,
+    "open_issues_count": 197,
+    "forks_count": 384
+  },
+  {
+    "full_name": "trickster0/OffensiveRust",
+    "stargazers_count": 1065,
+    "open_issues_count": 0,
+    "forks_count": 111
+  },
+  {
+    "full_name": "flipbit03/roulette_simulation",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "h3xduck/TripleCross",
+    "stargazers_count": 961,
+    "open_issues_count": 13,
+    "forks_count": 91
+  },
+  {
+    "full_name": "pathtofile/bad-bpf",
+    "stargazers_count": 226,
+    "open_issues_count": 0,
+    "forks_count": 34
+  },
+  {
+    "full_name": "airbus-cert/dirtypipe-ebpf_detection",
+    "stargazers_count": 17,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "Erfaniaa/binance-futures-trading-bot",
+    "stargazers_count": 81,
+    "open_issues_count": 1,
+    "forks_count": 9
+  },
+  {
+    "full_name": "Clemensss/TeachYourselfCS-PT",
+    "stargazers_count": 200,
+    "open_issues_count": 0,
+    "forks_count": 22
+  },
+  {
+    "full_name": "hackclub/some-assembly-required",
+    "stargazers_count": 1906,
+    "open_issues_count": 5,
+    "forks_count": 69
+  },
+  {
+    "full_name": "kuprel/min-dalle",
+    "stargazers_count": 3035,
+    "open_issues_count": 14,
+    "forks_count": 188
+  },
+  {
+    "full_name": "keon/awesome-bits",
+    "stargazers_count": 2837,
+    "open_issues_count": 8,
+    "forks_count": 195
+  },
+  {
+    "full_name": "bytecodealliance/cap-std",
+    "stargazers_count": 459,
+    "open_issues_count": 14,
+    "forks_count": 18
+  },
+  {
+    "full_name": "theseus-os/Theseus",
+    "stargazers_count": 1938,
+    "open_issues_count": 32,
+    "forks_count": 94
+  },
+  {
+    "full_name": "ellie/atuin",
+    "stargazers_count": 3396,
+    "open_issues_count": 68,
+    "forks_count": 105
+  },
+  {
+    "full_name": "jenterkin/vim-autosource",
+    "stargazers_count": 28,
+    "open_issues_count": 5,
+    "forks_count": 2
+  },
+  {
+    "full_name": "snipsco/snips-nlu-rs",
+    "stargazers_count": 324,
+    "open_issues_count": 5,
+    "forks_count": 56
+  },
+  {
+    "full_name": "sonos/rustling-ontology",
+    "stargazers_count": 121,
+    "open_issues_count": 29,
+    "forks_count": 47
+  },
+  {
+    "full_name": "billvanyo/tree_printer",
+    "stargazers_count": 12,
+    "open_issues_count": 2,
+    "forks_count": 3
+  },
+  {
+    "full_name": "railwayapp/nixpacks",
+    "stargazers_count": 793,
+    "open_issues_count": 23,
+    "forks_count": 22
+  },
+  {
+    "full_name": "firecracker-microvm/firecracker",
+    "stargazers_count": 18559,
+    "open_issues_count": 133,
+    "forks_count": 1318
+  },
+  {
+    "full_name": "emk/rust-musl-builder",
+    "stargazers_count": 1224,
+    "open_issues_count": 13,
+    "forks_count": 166
+  },
+  {
+    "full_name": "saulpw/visidata",
+    "stargazers_count": 5642,
+    "open_issues_count": 46,
+    "forks_count": 206
+  },
+  {
+    "full_name": "indygreg/PyOxidizer",
+    "stargazers_count": 3915,
+    "open_issues_count": 299,
+    "forks_count": 171
+  }
+]
