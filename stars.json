@@ -1,13 +1,13 @@
 [
   {
     "full_name": "zesterer/chumsky",
-    "stargazers_count": 2002,
-    "open_issues_count": 36,
+    "stargazers_count": 2007,
+    "open_issues_count": 37,
     "forks_count": 66
   },
   {
     "full_name": "zesterer/ariadne",
-    "stargazers_count": 943,
+    "stargazers_count": 944,
     "open_issues_count": 28,
     "forks_count": 23
   },
@@ -19,13 +19,13 @@
   },
   {
     "full_name": "tailscale/tailscale",
-    "stargazers_count": 8225,
+    "stargazers_count": 8237,
     "open_issues_count": 889,
-    "forks_count": 513
+    "forks_count": 514
   },
   {
     "full_name": "scrooloose/vim-slumlord",
-    "stargazers_count": 425,
+    "stargazers_count": 426,
     "open_issues_count": 12,
     "forks_count": 35
   },
@@ -37,15 +37,15 @@
   },
   {
     "full_name": "grafana/k6",
-    "stargazers_count": 17135,
+    "stargazers_count": 17146,
     "open_issues_count": 344,
     "forks_count": 885
   },
   {
     "full_name": "pola-rs/polars",
-    "stargazers_count": 6962,
-    "open_issues_count": 202,
-    "forks_count": 384
+    "stargazers_count": 6987,
+    "open_issues_count": 199,
+    "forks_count": 386
   },
   {
     "full_name": "trickster0/OffensiveRust",
@@ -61,13 +61,13 @@
   },
   {
     "full_name": "h3xduck/TripleCross",
-    "stargazers_count": 969,
+    "stargazers_count": 978,
     "open_issues_count": 13,
-    "forks_count": 92
+    "forks_count": 93
   },
   {
     "full_name": "pathtofile/bad-bpf",
-    "stargazers_count": 226,
+    "stargazers_count": 227,
     "open_issues_count": 0,
     "forks_count": 34
   },
@@ -91,14 +91,14 @@
   },
   {
     "full_name": "hackclub/some-assembly-required",
-    "stargazers_count": 1914,
-    "open_issues_count": 5,
-    "forks_count": 69
+    "stargazers_count": 1917,
+    "open_issues_count": 6,
+    "forks_count": 70
   },
   {
     "full_name": "kuprel/min-dalle",
-    "stargazers_count": 3039,
-    "open_issues_count": 13,
+    "stargazers_count": 3052,
+    "open_issues_count": 12,
     "forks_count": 190
   },
   {
@@ -115,13 +115,13 @@
   },
   {
     "full_name": "theseus-os/Theseus",
-    "stargazers_count": 1941,
+    "stargazers_count": 1943,
     "open_issues_count": 29,
     "forks_count": 94
   },
   {
     "full_name": "ellie/atuin",
-    "stargazers_count": 3398,
+    "stargazers_count": 3399,
     "open_issues_count": 68,
     "forks_count": 105
   },
@@ -151,26 +151,26 @@
   },
   {
     "full_name": "railwayapp/nixpacks",
-    "stargazers_count": 795,
+    "stargazers_count": 800,
     "open_issues_count": 22,
     "forks_count": 22
   },
   {
     "full_name": "firecracker-microvm/firecracker",
-    "stargazers_count": 18569,
-    "open_issues_count": 134,
-    "forks_count": 1318
+    "stargazers_count": 18577,
+    "open_issues_count": 132,
+    "forks_count": 1319
   },
   {
     "full_name": "emk/rust-musl-builder",
-    "stargazers_count": 1224,
+    "stargazers_count": 1225,
     "open_issues_count": 13,
     "forks_count": 166
   },
   {
     "full_name": "saulpw/visidata",
-    "stargazers_count": 5644,
-    "open_issues_count": 47,
+    "stargazers_count": 5647,
+    "open_issues_count": 45,
     "forks_count": 206
   },
   {
