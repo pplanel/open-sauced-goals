@@ -1,13 +1,31 @@
 [
   {
+    "full_name": "windmill-labs/windmill",
+    "stargazers_count": 715,
+    "open_issues_count": 22,
+    "forks_count": 29
+  },
+  {
+    "full_name": "google/nsjail",
+    "stargazers_count": 2060,
+    "open_issues_count": 21,
+    "forks_count": 257
+  },
+  {
+    "full_name": "Exein-io/pulsar",
+    "stargazers_count": 88,
+    "open_issues_count": 9,
+    "forks_count": 5
+  },
+  {
     "full_name": "zesterer/chumsky",
-    "stargazers_count": 2029,
-    "open_issues_count": 36,
+    "stargazers_count": 2036,
+    "open_issues_count": 37,
     "forks_count": 67
   },
   {
     "full_name": "zesterer/ariadne",
-    "stargazers_count": 948,
+    "stargazers_count": 950,
     "open_issues_count": 28,
     "forks_count": 23
   },
@@ -19,9 +37,9 @@
   },
   {
     "full_name": "tailscale/tailscale",
-    "stargazers_count": 8276,
+    "stargazers_count": 8298,
     "open_issues_count": 897,
-    "forks_count": 518
+    "forks_count": 520
   },
   {
     "full_name": "scrooloose/vim-slumlord",
@@ -37,19 +55,19 @@
   },
   {
     "full_name": "grafana/k6",
-    "stargazers_count": 17188,
+    "stargazers_count": 17211,
     "open_issues_count": 346,
-    "forks_count": 890
+    "forks_count": 893
   },
   {
     "full_name": "pola-rs/polars",
-    "stargazers_count": 7063,
-    "open_issues_count": 194,
-    "forks_count": 388
+    "stargazers_count": 7114,
+    "open_issues_count": 206,
+    "forks_count": 390
   },
   {
     "full_name": "trickster0/OffensiveRust",
-    "stargazers_count": 1076,
+    "stargazers_count": 1079,
     "open_issues_count": 0,
     "forks_count": 112
   },
@@ -61,9 +79,9 @@
   },
   {
     "full_name": "h3xduck/TripleCross",
-    "stargazers_count": 998,
+    "stargazers_count": 1007,
     "open_issues_count": 14,
-    "forks_count": 100
+    "forks_count": 102
   },
   {
     "full_name": "pathtofile/bad-bpf",
@@ -79,27 +97,27 @@
   },
   {
     "full_name": "Erfaniaa/binance-futures-trading-bot",
-    "stargazers_count": 85,
+    "stargazers_count": 86,
     "open_issues_count": 0,
     "forks_count": 10
   },
   {
     "full_name": "Clemensss/TeachYourselfCS-PT",
-    "stargazers_count": 200,
+    "stargazers_count": 201,
     "open_issues_count": 0,
     "forks_count": 22
   },
   {
     "full_name": "hackclub/some-assembly-required",
-    "stargazers_count": 1948,
+    "stargazers_count": 2001,
     "open_issues_count": 3,
-    "forks_count": 72
+    "forks_count": 75
   },
   {
     "full_name": "kuprel/min-dalle",
-    "stargazers_count": 3084,
-    "open_issues_count": 11,
-    "forks_count": 194
+    "stargazers_count": 3105,
+    "open_issues_count": 12,
+    "forks_count": 196
   },
   {
     "full_name": "keon/awesome-bits",
@@ -109,19 +127,19 @@
   },
   {
     "full_name": "bytecodealliance/cap-std",
-    "stargazers_count": 460,
+    "stargazers_count": 461,
     "open_issues_count": 12,
     "forks_count": 18
   },
   {
     "full_name": "theseus-os/Theseus",
-    "stargazers_count": 1949,
-    "open_issues_count": 32,
-    "forks_count": 94
+    "stargazers_count": 1951,
+    "open_issues_count": 28,
+    "forks_count": 95
   },
   {
     "full_name": "ellie/atuin",
-    "stargazers_count": 3405,
+    "stargazers_count": 3407,
     "open_issues_count": 68,
     "forks_count": 106
   },
@@ -133,7 +151,7 @@
   },
   {
     "full_name": "snipsco/snips-nlu-rs",
-    "stargazers_count": 323,
+    "stargazers_count": 324,
     "open_issues_count": 5,
     "forks_count": 56
   },
@@ -151,32 +169,14 @@
   },
   {
     "full_name": "railwayapp/nixpacks",
-    "stargazers_count": 824,
-    "open_issues_count": 22,
-    "forks_count": 26
+    "stargazers_count": 835,
+    "open_issues_count": 23,
+    "forks_count": 27
   },
   {
     "full_name": "firecracker-microvm/firecracker",
-    "stargazers_count": 18599,
+    "stargazers_count": 18622,
     "open_issues_count": 136,
-    "forks_count": 1324
-  },
-  {
-    "full_name": "emk/rust-musl-builder",
-    "stargazers_count": 1227,
-    "open_issues_count": 13,
-    "forks_count": 166
-  },
-  {
-    "full_name": "saulpw/visidata",
-    "stargazers_count": 5660,
-    "open_issues_count": 48,
-    "forks_count": 205
-  },
-  {
-    "full_name": "indygreg/PyOxidizer",
-    "stargazers_count": 3922,
-    "open_issues_count": 301,
-    "forks_count": 171
+    "forks_count": 1323
   }
 ]
